@@ -1,0 +1,2 @@
+there are several complicated problems in this project so I break it down into smaller parts.
+first problem: data files are not in the format of a dataframe 
